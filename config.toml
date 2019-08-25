@@ -1,0 +1,49 @@
+baseURL = "http://example.org/"
+languageCode = "es"
+title = "El Ciber"
+theme = "hyde-hyde"
+summarylength = 50
+paginate = 5
+disqusShortname = "elciber-1.disqus.com" 
+## Site Settings
+[params]
+    author = "Author"
+    title = "Title"
+    description = "~ A llorar a la iglesia ~ "
+    authorimage = "/img/cod02.png"
+    dateformat = "02/01/2006"
+
+    # sidebar, copyright & license
+    copyright = "AJB"
+    license = "WTFPL"
+    licenseURL = "http://www.wtfpl.net/"
+    showBuiltWith = false
+    showComments = true
+
+    # https://highlightjs.org
+    highlightjs = true
+    highlightjsstyle = "github"
+
+## Main Menu
+[[menu.main]]
+    name = "Inicio"
+    weight = 100
+    identifier = "home"
+    url = "/"
+[[menu.main]]
+    name = "Reglas"
+    identifier = "reglas"
+    weight = 200
+    url = "/reglas/"
+[[menu.main]]
+    name = "Descargas"
+    identifier = "descargas"
+    weight = 300
+     url = "/descargas/"
+[[menu.main]]
+    name = "Guia de Instalación"
+    identifier = "guia-de-instalacion"
+    weight = 400
+    url = "/guia-de-instalacion/"
+
+
