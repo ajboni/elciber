@@ -2,9 +2,11 @@ baseURL = "https://elciber.ga/"
 languageCode = "es"
 title = "El Ciber"
 theme = "hyde-hyde"
-summarylength = 50
+summarylength = 60
 paginate = 5
 disqusShortname = "elciberga" 
+
+
 ## Site Settings
 [params]
     author = "Author"
@@ -23,6 +25,8 @@ disqusShortname = "elciberga"
     # https://highlightjs.org
     highlightjs = true
     highlightjsstyle = "github"
+
+    postNavigation = false
 
 ## Main Menu
 [[menu.main]]
