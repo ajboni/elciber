@@ -4,7 +4,7 @@ title = "El Ciber"
 theme = "hyde-hyde"
 summarylength = 50
 paginate = 5
-disqusShortname = "elciber.disqus.com" 
+disqusShortname = "elciberga" 
 ## Site Settings
 [params]
     author = "Author"
