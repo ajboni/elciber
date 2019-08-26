@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-us">
+<html lang="es">
     
   <head>
     <link href="https://gmpg.org/xfn/11" rel="profile">
@@ -14,21 +14,26 @@
     
     
 
-<title>404 Page not found • My New Hugo Site</title>
+<title>404 Page not found • El Ciber</title>
 
 
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="404 Page not found"/>
-<meta name="twitter:description" content=""/>
+<meta name="twitter:description" content="~ A llorar a la iglesia ~ "/>
 
 <meta property="og:title" content="404 Page not found" />
-<meta property="og:description" content="" />
+<meta property="og:description" content="~ A llorar a la iglesia ~ " />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="http://example.org/404.html" />
-
+<meta property="og:site_name" content="Title" />
 
 
     
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
+
+
 
 
 
@@ -56,25 +61,72 @@
 
     <body class=" ">
     
+
+
 <div class="sidebar">
   <div class="container ">
     <div class="sidebar-about">
       <span class="site__title">
-        <a href="http://example.org/">My New Hugo Site</a>
+        <a href="http://example.org/">El Ciber</a>
       </span>
       
-      
-      <p class="site__description">
         
+        
+        
+        <div class="author-image">
+          <img src="http://example.org/img/cod02.png" alt="Author Image" class="img--circle img--headshot element--center">
+        </div>
+        
+      
+      
+      <p class="site__description" id='subtitle'>
+        
+        
+        asdads
+
+    
+            
       </p>
     </div>
     <div class="collapsible-menu">
       <input type="checkbox" id="menuToggle">
-      <label for="menuToggle">My New Hugo Site</label>
+      <label for="menuToggle">El Ciber</label>
       <div class="menu-content">
         <div>
 	<ul class="sidebar-nav">
 		 
+		 
+			 
+				<li>
+					<a href="/">
+						<span>Inicio</span>
+					</a>
+				</li>
+			 
+		 
+			 
+				<li>
+					<a href="/reglas/">
+						<span>Reglas</span>
+					</a>
+				</li>
+			 
+		 
+			 
+				<li>
+					<a href="/descargas/">
+						<span>Descargas</span>
+					</a>
+				</li>
+			 
+		 
+			 
+				<li>
+					<a href="/guia-de-instalacion/">
+						<span>Guia De Instalación</span>
+					</a>
+				</li>
+			 
 		
 	</ul>
 </div>
@@ -101,11 +153,36 @@
       </div>
     </div>
     
+<div class="copyright">
+  &copy; 2019 AJB
+  
+    <a href="http://www.wtfpl.net/">WTFPL</a>
+  
+</div>
+
 
 
   </div>
 </div>
 
+<script>
+    let subtitles = [
+      "A llorar a la iglesia",
+      "A mamarla",
+      "Puto el que lee",
+      "Ez",
+      "Calentitos los panchos",
+      "2 x 1 peso",
+      "Con perdon de las damas",
+      "Isabel!",
+      "Cafecitooo"
+    ];
+
+    let sub = "~ ";
+    sub += subtitles[Math.floor(Math.random() * subtitles.length)];
+    sub += " ~"
+    document.getElementById('subtitle').innerHTML = sub   
+</script>
         <div class="content container">
             
 <h1>404: Page not found</h1>
