@@ -1,4 +1,4 @@
-baseURL = "https://elciber.ga"
+baseURL = "https://elciber.ga/"
 languageCode = "es"
 title = "El Ciber"
 theme = "hyde-hyde"
