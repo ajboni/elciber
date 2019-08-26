@@ -8,13 +8,12 @@ date: "2019-08-25"
 
 Las reglas son claras y concisas:
 
-1. No llorar
-2. Solo se permite notebook.
-3. No se permite monitor externo.
-4. Se permite opcional mouse y teclado externo.
-5. No se permite WIFI
-6. Cada jugador será resposable de traer su propio cable de red.
-7. Cada equipo será responsable de traer sus propias zapatillas electricas y alargadores.
-
+1. Solo se permite notebook.
+2. No se permite monitor externo.
+3. Se permite opcional mouse y teclado externo.
+4. No se permite WIFI 
+5. Cada jugador será resposable de traer su propio cable de red.
+6. Cada equipo será responsable de traer sus propias zapatillas electricas y alargadores.
+7. No llorar
 
 
