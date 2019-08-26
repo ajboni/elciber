@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on El Ciber</title>
-    <link>http://example.org/post/</link>
+    <link>https://elciber.ga/post/</link>
     <description>Recent content in Posts on El Ciber</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Sat, 24 Aug 2019 20:09:49 -0300</lastBuildDate>
     
-	<atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://elciber.ga/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Primer Ciber -  Septiembre 2019</title>
-      <link>http://example.org/post/primer-ciber-septiembre-2019/</link>
+      <link>https://elciber.ga/post/primer-ciber-septiembre-2019/</link>
       <pubDate>Sat, 24 Aug 2019 20:09:49 -0300</pubDate>
       
-      <guid>http://example.org/post/primer-ciber-septiembre-2019/</guid>
+      <guid>https://elciber.ga/post/primer-ciber-septiembre-2019/</guid>
       <description> Fecha y lugar El evento se llevará a cabo el día 13 o 14 de Septiembre de 2019 (fecha estimativa).
 Costo del Salón: ~$700 (a dividir entre jugadores).
 Lugar: Dorrego y Oroño.

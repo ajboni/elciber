@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sssaassasa Hugo on El Ciber</title>
-    <link>http://example.org/</link>
+    <link>https://elciber.ga/</link>
     <description>Recent content in sssaassasa Hugo on El Ciber</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://elciber.ga/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Primer Ciber -  Septiembre 2019</title>
-      <link>http://example.org/post/primer-ciber-septiembre-2019/</link>
+      <link>https://elciber.ga/post/primer-ciber-septiembre-2019/</link>
       <pubDate>Sat, 24 Aug 2019 20:09:49 -0300</pubDate>
       
-      <guid>http://example.org/post/primer-ciber-septiembre-2019/</guid>
+      <guid>https://elciber.ga/post/primer-ciber-septiembre-2019/</guid>
       <description> Fecha y lugar El evento se llevará a cabo el día 13 o 14 de Septiembre de 2019 (fecha estimativa).
 Costo del Salón: ~$700 (a dividir entre jugadores).
 Lugar: Dorrego y Oroño.
@@ -27,10 +27,10 @@ Lugar: Dorrego y Oroño.
     
     <item>
       <title>Guia De Instalacion</title>
-      <link>http://example.org/guia-de-instalacion/</link>
+      <link>https://elciber.ga/guia-de-instalacion/</link>
       <pubDate>Sat, 24 Aug 2019 22:35:36 -0300</pubDate>
       
-      <guid>http://example.org/guia-de-instalacion/</guid>
+      <guid>https://elciber.ga/guia-de-instalacion/</guid>
       <description>Para no tener inconvenientes va a ser muy importante tener todos las mismas versiones y mapas. A continuacion se detallan pasos para cada juego:
 Medal Of Honor Proximamente
 Call Of Duty Proximamente
@@ -39,20 +39,20 @@ Battlefield 1940 Proximamente</description>
     
     <item>
       <title>Reglas</title>
-      <link>http://example.org/reglas/</link>
+      <link>https://elciber.ga/reglas/</link>
       <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/reglas/</guid>
+      <guid>https://elciber.ga/reglas/</guid>
       <description>Las reglas son claras y concisas:
  Solo se permite notebook. No se permite monitor externo. Se permite opcional mouse y teclado externo. No se permite WIFI Cada jugador será resposable de traer su propio cable de red. Cada equipo será responsable de traer sus propias zapatillas electricas y alargadores. No llorar  </description>
     </item>
     
     <item>
       <title>Descargas</title>
-      <link>http://example.org/descargas/</link>
+      <link>https://elciber.ga/descargas/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/descargas/</guid>
+      <guid>https://elciber.ga/descargas/</guid>
       <description> PROXIMAMENTE&amp;hellip; </description>
     </item>
     
