@@ -26,9 +26,18 @@ Hay 3 opciones:
 
 ### Jugadores Confirmados  
 
-| Aliados   | Eje      |
-| --------- | -------- |
-| manoplaso | matamata |
+| Aliados | Eje        |
+| ------- | ---------- |
+| toxico  | Moshisha   |
+| ...   | Rioske2010 |
+| ...   | ...      |
+| ...   | ...      |
+| ...   | ...      |
+| ...   | ...      |
+| ...   | ...      |
+| ...   | ...      |
+| ...   | ...      |
+
 
 ### Mapas
 
