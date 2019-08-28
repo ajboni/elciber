@@ -315,7 +315,10 @@ a {
   display: block;
   font-size: 1rem;
   margin-bottom: .2rem;
-  margin-top: .2rem; }
+  margin-top: .2rem; 
+	border-bottom: 1px solid #333333;
+
+}
 
 .post__meta {
   font-size: 0.8rem;
