@@ -40,14 +40,9 @@ disqusShortname = "elciberga"
     weight = 200
     url = "/reglas/"
 [[menu.main]]
-    name = "Descargas"
-    identifier = "descargas"
+    name = "Juegos"
+    identifier = "juegos"
     weight = 300
-     url = "/descargas/"
-[[menu.main]]
-    name = "Guia de Instalación"
-    identifier = "guia-de-instalacion"
-    weight = 400
-    url = "/guia-de-instalacion/"
+     url = "/juegos/"
 
 
