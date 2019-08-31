@@ -1,0 +1,4 @@
+1. Descomprimir archivo en una carpeta
+2. Ejecutar instalador e Instalar Juego,
+3. Estar atento al Firewall de windows, agregar execpciones y reiniciar juego.
+4. Destildar no cheat?
